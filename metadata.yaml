@@ -1,10 +1,16 @@
 _repo: Das-Geschlechtsleben-in-der-Deutschen-Vergangenheit_50248
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50248-h/images/cover.jpg
 creator:
   author:
     agent_name: Bauer, Max
     gutenberg_agent_id: '44629'
     url: http://www.gutenberg.org/2009/agents/44629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50248#Das-Geschlechtsleben-in-der-Deutschen-Vergangenheit
 gutenberg_issued: '2015-10-18'
 gutenberg_type: Text
 identifiers:
